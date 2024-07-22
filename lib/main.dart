@@ -22,7 +22,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Demo Home Page'),
+        title: Text('Flutter Demo Home Page 2'),
       ),
       body: Center(
         child: Text(
